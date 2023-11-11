@@ -1,0 +1,12 @@
+.menuTab{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+.menuTabIcon{
+    margin: 4px;
+    width: 22px;
+    height: 22px;
+}

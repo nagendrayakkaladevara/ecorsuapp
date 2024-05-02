@@ -1,0 +1,194 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "DYD : K.Ganga Raju",
+      "mobile_number": 7569845723
+    },
+    {
+      "id": 2,
+      "name": "SCMN: Neeladri Srinu",
+      "mobile_number": 7396965416
+    },
+    {
+      "id": 3,
+      "name": "KTV: Food House",
+      "mobile_number": 8897735530
+    },
+    {
+      "id": 4,
+      "name": "KTV: Food House2",
+      "mobile_number": 7794976222
+    },
+    {
+      "id": 5,
+      "name": "KPL : Gowri hotel",
+      "mobile_number": 7981878132
+    },
+    {
+      "id": 6,
+      "name": "KPL : Gowri 2 hotel",
+      "mobile_number": 9515576089
+    },
+    {
+      "id": 7,
+      "name": "ALM: Rajula Dhaba",
+      "mobile_number": 8328658447
+    },
+    {
+      "id": 8,
+      "name": "ALM: Rajula Dhaba2",
+      "mobile_number": 9581436976
+    },
+    {
+      "id": 9,
+      "name": "KUK : Shafi(Meals)",
+      "mobile_number": 8897032371
+    },
+    {
+      "id": 10,
+      "name": "KUK Tiffin:",
+      "mobile_number": 7036300487
+    },
+    {
+      "id": 11,
+      "name": "KUK Tiffin:",
+      "mobile_number": 9701607975
+    },
+    {
+      "id": 12,
+      "name": "VZM: RT-09 UP Str tiffin",
+      "mobile_number": 9912320513
+    },
+    {
+      "id": 13,
+      "name": "NML: Chai Bridge",
+      "mobile_number": 9032822216
+    },
+    {
+      "id": 14,
+      "name": "NML Vijaya Restaurant,",
+      "mobile_number": 7416312022
+    },
+    {
+      "id": 15,
+      "name": "NML Vijaya Restaurant2",
+      "mobile_number": 7416229108
+    },
+    {
+      "id": 16,
+      "name": "GVI: Kusuma hotel",
+      "mobile_number": 9705277115
+    },
+    {
+      "id": 17,
+      "name": "CPP: Raju hotel",
+      "mobile_number": 9959944463
+    },
+    {
+      "id": 18,
+      "name": "CPP: Raju hotel2",
+      "mobile_number": 9959944463
+    },
+    {
+      "id": 19,
+      "name": "11) SGDM: Sankar hotel",
+      "mobile_number": 9550748823
+    },
+    {
+      "id": 20,
+      "name": "PDU:Ramana hotel",
+      "mobile_number": 7093360302
+    },
+    {
+      "id": 21,
+      "name": "PDU:Ramana hotel2",
+      "mobile_number": 8008546030
+    },
+    {
+      "id": 22,
+      "name": "CHE: Meals",
+      "mobile_number": 9848216590
+    },
+    {
+      "id": 23,
+      "name": "TIU: Sankara hotel",
+      "mobile_number": 6304246851
+    },
+    {
+      "id": 24,
+      "name": "PSA: Rly Colony",
+      "mobile_number": 8712381855
+    },
+    {
+      "id": 25,
+      "name": "GRBL tiffin",
+      "mobile_number": 6305780768
+    },
+    {
+      "id": 26,
+      "name": "KMX: tiffin",
+      "mobile_number": 9000896852
+    },
+    {
+      "id": 27,
+      "name": "KMX2 tiffin",
+      "mobile_number": 9618983088
+    },
+    {
+      "id": 28,
+      "name": "VBL: Ganesh hotel",
+      "mobile_number": 9000313009
+    },
+    {
+      "id": 29,
+      "name": "VBL: Ganesh hotel2",
+      "mobile_number": 8897662309
+    },
+    {
+      "id": 30,
+      "name": "SNM: hotel",
+      "mobile_number": 9704171576
+    },
+    {
+      "id": 31,
+      "name": "PVP: hotel",
+      "mobile_number": 9490948881
+    },
+    {
+      "id": 32,
+      "name": "JMPT hotel",
+      "mobile_number": 7894139697
+    },
+    {
+      "id": 33,
+      "name": "MVW: hotel",
+      "mobile_number": 9618065518
+    },
+    {
+      "id": 34,
+      "name": "MVW2 hotel",
+      "mobile_number": 7731070296
+    },
+    {
+      "id": 35,
+      "name": "MVW3 hotel",
+      "mobile_number": 7187931077
+    },
+    {
+      "id": 36,
+      "name": "KVLS: hotel",
+      "mobile_number": 9490653661
+    },
+    {
+      "id": 37,
+      "name": "GPL: Hampi Foods",
+      "mobile_number": 8008195999
+    },
+    {
+      "id": 38,
+      "name": "VSPS: Rly Canteen",
+      "mobile_number": 9032507615
+    }
+  ]
+}

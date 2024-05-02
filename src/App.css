@@ -4,8 +4,12 @@
   --background-color-dark: #000000;
   --text-color-dark: #ffffff;
 }
-body, html {
+
+body,
+html {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
 }
+
+@import url(https://db.onlinewebfonts.com/c/d29ba033bd591441ba31f6aa7054787f?family=KareliaWeb+Regular);

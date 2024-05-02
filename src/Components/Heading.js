@@ -4,22 +4,22 @@ import '../Styles/Styles.css';
 
 const styles = {
     fontSize: '15px',
-    color: "Red",
-    fontFamily: 'Roboto',
-    margin: '0px'
+    color: "rgb(255, 145, 48)",
+    fontFamily: 'Roboto', 
+    margin:"0px"
 }
 
-const MainText = ({ text, className, ...props }) => {
+const HeadingText = ({ text, className, ...props }) => {
     return <p className={`${className} FontFamliy`} style={styles} {...props}>{text}</p>;
 };
 
-MainText.propTypes = {
+HeadingText.propTypes = {
     text: PropTypes.string.isRequired,
     className: PropTypes.string
 };
 
-MainText.defaultProps = {
-    className: 'FontFamliy'
+HeadingText.defaultProps = {
+    className: ''
 };
 
-export default MainText;
+export default HeadingText;

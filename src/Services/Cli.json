@@ -1,0 +1,364 @@
+{
+  "cli": [
+    {
+      "id": 1,
+      "crew_name": "S.Bangaru Babu CLI/HQ",
+      "mobile_number": 8978080484
+    },
+    {
+      "id": 2,
+      "crew_name": "H.Das CLI/Cadre",
+      "mobile_number": 8978080135
+    },
+    {
+      "id": 3,
+      "crew_name": "Ch.T.Swamy CLI/CTLC/VSKP",
+      "mobile_number": 8978080134
+    },
+    {
+      "id": 4,
+      "crew_name": "S.Chinna Rao CCM",
+      "mobile_number": 8978280539
+    },
+    {
+      "id": 5,
+      "crew_name": "P.V.Appa Rao CLI/Speedometer",
+      "mobile_number": 8978081624
+    },
+    {
+      "id": 6,
+      "crew_name": "M.P.Reddy CLI/Disaster Management",
+      "mobile_number": 8978080495
+    },
+    {
+      "id": 7,
+      "crew_name": "M.Ravi Kumar CLI/SCMN/Tenders",
+      "mobile_number": 8978081679
+    },
+    {
+      "id": 8,
+      "crew_name": "R.M.S.Rao CLI/Works/Tenders",
+      "mobile_number": 8978280622
+    },
+    {
+      "id": 9,
+      "crew_name": "M.Krukshetra RCD Incharge/DYD",
+      "mobile_number": 8978081676
+    },
+    {
+      "id": 10,
+      "crew_name": "T.R.P.Varma CLI/Stores/RR",
+      "mobile_number": 8978080487
+    },
+    {
+      "id": 11,
+      "crew_name": "L.K.Panda CLI/Safety/VSKP",
+      "mobile_number": 8978581195
+    },
+    {
+      "id": 12,
+      "crew_name": "G.Krishna CTCC/VSKP",
+      "mobile_number": 8688406686
+    },
+    {
+      "id": 13,
+      "crew_name": "T.N.Rao CLI/DYD",
+      "mobile_number": 8978080485
+    },
+    {
+      "id": 14,
+      "crew_name": "G.Chinnaji CLI/VSKP",
+      "mobile_number": 8688406700
+    },
+    {
+      "id": 15,
+      "crew_name": "J.Murugan CLI/VSKP",
+      "mobile_number": 8978080147
+    },
+    {
+      "id": 16,
+      "crew_name": "L.B.Raju CLI/VSKP",
+      "mobile_number": 8978081541
+    },
+    {
+      "id": 17,
+      "crew_name": "M.S.Naryana CLI/VSKP",
+      "mobile_number": 8978081660
+    },
+    {
+      "id": 18,
+      "crew_name": "M.V.Ramana CLI/VSKP",
+      "mobile_number": 8500499056
+    },
+    {
+      "id": 19,
+      "crew_name": "N.Sikdhar CLI/VSKP",
+      "mobile_number": 8978080137
+    },
+    {
+      "id": 20,
+      "crew_name": "R.R.Kumar CLI/VSKP",
+      "mobile_number": 8978280364
+    },
+    {
+      "id": 21,
+      "crew_name": "R.V.S.S.Rao CLI/VSKP",
+      "mobile_number": 8978080143
+    },
+    {
+      "id": 22,
+      "crew_name": "Y.M.Babu CLI/VSKP",
+      "mobile_number": 8688406694
+    },
+    {
+      "id": 23,
+      "crew_name": "M.A.Naidu Lobby Incharge/MIPM",
+      "mobile_number": 8978081757
+    },
+    {
+      "id": 24,
+      "crew_name": "A.N.Naidu CLI/DYD",
+      "mobile_number": 8978080492
+    },
+    {
+      "id": 25,
+      "crew_name": "B.Manibabu CLI/DYD",
+      "mobile_number": 8978080146
+    },
+    {
+      "id": 26,
+      "crew_name": "D.Manna CLI/DYD",
+      "mobile_number": 8978080142
+    },
+    {
+      "id": 27,
+      "crew_name": "D.V.Annaji Rao CLI/DYD",
+      "mobile_number": 8978080145
+    },
+    {
+      "id": 28,
+      "crew_name": "G.J.Nadham CLI/DYD",
+      "mobile_number": 8978280421
+    },
+    {
+      "id": 29,
+      "crew_name": "M.A.V.S.Narayana CLI/DYD",
+      "mobile_number": 8978280133
+    },
+    {
+      "id": 30,
+      "crew_name": "N.Eswara Rao CLI/DYD",
+      "mobile_number": 8688406697
+    },
+    {
+      "id": 31,
+      "crew_name": "Sangana CLI/DYD",
+      "mobile_number": 8978080494
+    },
+    {
+      "id": 32,
+      "crew_name": "T.Narayana CLI/DYD",
+      "mobile_number": 8978081559
+    },
+    {
+      "id": 33,
+      "crew_name": "T.R.M.Rao CLI/DYD",
+      "mobile_number": 8978165431
+    },
+    {
+      "id": 34,
+      "crew_name": "G.L.Krishna CTCC/SCMN",
+      "mobile_number": 8688406682
+    },
+    {
+      "id": 35,
+      "crew_name": "Ch.Sridhar Rao CLI/SCMN",
+      "mobile_number": 8919474577
+    },
+    {
+      "id": 36,
+      "crew_name": "D.Ananda Rao CLI/SCMN",
+      "mobile_number": 8978280483
+    },
+    {
+      "id": 37,
+      "crew_name": "D.V.L.Prasad CLI/SCMN",
+      "mobile_number": 8978080138
+    },
+    {
+      "id": 38,
+      "crew_name": "G.P.Rao CLI/SCMN",
+      "mobile_number": 8978155744
+    },
+    {
+      "id": 39,
+      "crew_name": "G.R.Mohan CLI/SCMN",
+      "mobile_number": 8688406696
+    },
+    {
+      "id": 40,
+      "crew_name": "K.Ananth Rao CLI/SCMN",
+      "mobile_number": 8978081451
+    },
+    {
+      "id": 41,
+      "crew_name": "K.S.Rao CLI/SCMN",
+      "mobile_number": 8978280389
+    },
+    {
+      "id": 42,
+      "crew_name": "K.Shaji CLI/SCMN",
+      "mobile_number": 8978080141
+    },
+    {
+      "id": 43,
+      "crew_name": "M.V.Rao CLI/SCMN",
+      "mobile_number": 8978081723
+    },
+    {
+      "id": 44,
+      "crew_name": "P.P.Rao CLI/SCMN",
+      "mobile_number": 8978280487
+    },
+    {
+      "id": 45,
+      "crew_name": "P.P.Shankar CLI/SCMN",
+      "mobile_number": 8978080133
+    },
+    {
+      "id": 46,
+      "crew_name": "P.S.Rao CLI/SCMN",
+      "mobile_number": 8978280580
+    },
+    {
+      "id": 47,
+      "crew_name": "S.Dhanunjaya CLI/SCMN",
+      "mobile_number": 8978080175
+    },
+    {
+      "id": 48,
+      "crew_name": "S.P.Ravi Kumar CLI/SCMN",
+      "mobile_number": 8978280478
+    },
+    {
+      "id": 49,
+      "crew_name": "T.V.V.Prasad CLI/SCMN",
+      "mobile_number": 8688406614
+    },
+    {
+      "id": 50,
+      "crew_name": "Y.R.Babu CLI/SCMN",
+      "mobile_number": 8455893604
+    },
+    {
+      "id": 51,
+      "crew_name": "D.Suresh Kumar CLI/VZM",
+      "mobile_number": 8688406648
+    },
+    {
+      "id": 52,
+      "crew_name": "Ch.N.Achari CLI/VZM",
+      "mobile_number": 8688406704
+    },
+    {
+      "id": 53,
+      "crew_name": "Ch.Srihari CLI/VZM",
+      "mobile_number": 9676472277
+    },
+    {
+      "id": 54,
+      "crew_name": "P.Govind Achari CLI/VZM",
+      "mobile_number": 7987268364
+    },
+    {
+      "id": 55,
+      "crew_name": "V.Nagesh kumar CLI/VZM",
+      "mobile_number": 7569791123
+    },
+    {
+      "id": 56,
+      "crew_name": "E.VENKATESWARLU CLI/CHE",
+      "mobile_number": 8978081387
+    },
+    {
+      "id": 57,
+      "crew_name": "N.R.Panda Lobby Incharge/RGDA",
+      "mobile_number": 8455893611
+    },
+    {
+      "id": 58,
+      "crew_name": "A.U.K.DUTT CLI/RGDA",
+      "mobile_number": 8978280565
+    },
+    {
+      "id": 59,
+      "crew_name": "B.B.Bhadra CLI/RGDA",
+      "mobile_number": 8455893623
+    },
+    {
+      "id": 60,
+      "crew_name": "M.S.RAO CLI/RGDA",
+      "mobile_number": 8978080191
+    },
+    {
+      "id": 61,
+      "crew_name": "P.K.Padhy CLI/RGDA",
+      "mobile_number": 8455893620
+    },
+    {
+      "id": 62,
+      "crew_name": "T.GOVINDA RAO CLI/RGDA",
+      "mobile_number": 8978280417
+    },
+    {
+      "id": 63,
+      "crew_name": "Y.RAMA KRISHNA CLI/RGDA",
+      "mobile_number": 8500529213
+    },
+    {
+      "id": 64,
+      "crew_name": "CH.NAGESWARA RAO CLI/ARK",
+      "mobile_number": 8978280671
+    },
+    {
+      "id": 65,
+      "crew_name": "A.K.Biswas CLI/KRPU",
+      "mobile_number": 9752447438
+    },
+    {
+      "id": 66,
+      "crew_name": "L.S.RAMULU CLI/KRPU",
+      "mobile_number": 8309113388
+    },
+    {
+      "id": 67,
+      "crew_name": "S.GUIN CLI/KRPU",
+      "mobile_number": 8455893643
+    },
+    {
+      "id": 68,
+      "crew_name": "D.SANGA CLI/JDB",
+      "mobile_number": 9752447451
+    },
+    {
+      "id": 69,
+      "crew_name": "R.Bisoi CLI/JDB",
+      "mobile_number": 9752447098
+    },
+    {
+      "id": 70,
+      "crew_name": "T.LOKA VEERUDU CTCC/BCHL",
+      "mobile_number": 8374541693
+    },
+    {
+      "id": 71,
+      "crew_name": "C.S.ACHARY CLI/BCHL",
+      "mobile_number": 8978081792
+    },
+    {
+      "id": 72,
+      "crew_name": "M.BESARA CLI/BCHL",
+      "mobile_number": 9752447436
+    }
+  ]
+}

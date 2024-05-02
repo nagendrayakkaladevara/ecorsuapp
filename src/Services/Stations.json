@@ -1,0 +1,754 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "DVD Station CUG",
+      "mobile_number": 8978081968
+    },
+    {
+      "id": 2,
+      "name": "GPT Station CUG",
+      "mobile_number": 8978081965
+    },
+    {
+      "id": 3,
+      "name": "SCMN Station CUG",
+      "mobile_number": 8978081964
+    },
+    {
+      "id": 4,
+      "name": "PDT Station CUG",
+      "mobile_number": 8978081963
+    },
+    {
+      "id": 5,
+      "name": "KTV Station CUG",
+      "mobile_number": 8978081962
+    },
+    {
+      "id": 6,
+      "name": "KPL Station CUG",
+      "mobile_number": 8978081961
+    },
+    {
+      "id": 7,
+      "name": "ALM Station CUG",
+      "mobile_number": 8978081960
+    },
+    {
+      "id": 8,
+      "name": "KUK Station CUG",
+      "mobile_number": 8978081959
+    },
+    {
+      "id": 9,
+      "name": "VZM Station CUG",
+      "mobile_number": 8978081958
+    },
+    {
+      "id": 10,
+      "name": "NML Station CUG",
+      "mobile_number": 8978081957
+    },
+    {
+      "id": 11,
+      "name": "GVI Station CUG",
+      "mobile_number": 8978081956
+    },
+    {
+      "id": 12,
+      "name": "CPP Station CUG",
+      "mobile_number": 8978081955
+    },
+    {
+      "id": 13,
+      "name": "SGDM Station CUG",
+      "mobile_number": 8978081954
+    },
+    {
+      "id": 14,
+      "name": "PDU Station CUG",
+      "mobile_number": 8978081953
+    },
+    {
+      "id": 15,
+      "name": "DSI Station CUG",
+      "mobile_number": 8978081952
+    },
+    {
+      "id": 16,
+      "name": "CHE Station CUG",
+      "mobile_number": 8978081951
+    },
+    {
+      "id": 17,
+      "name": "ULM Station CUG",
+      "mobile_number": 8978081950
+    },
+    {
+      "id": 18,
+      "name": "TIU Station CUG",
+      "mobile_number": 8978081949
+    },
+    {
+      "id": 19,
+      "name": "KBM Station CUG",
+      "mobile_number": 8978081948
+    },
+    {
+      "id": 20,
+      "name": "NWP Station CUG",
+      "mobile_number": 8978081947
+    },
+    {
+      "id": 21,
+      "name": "PUN Station CUG",
+      "mobile_number": 8978081946
+    },
+    {
+      "id": 22,
+      "name": "GPL Sg Station CUG",
+      "mobile_number": 8519993198
+    },
+    {
+      "id": 23,
+      "name": "Gate JN Station CUG",
+      "mobile_number": 83528
+    },
+    {
+      "id": 24,
+      "name": "VDPD Station CUG",
+      "mobile_number": 83527
+    },
+    {
+      "id": 25,
+      "name": "R&D YD/VZP Station CUG",
+      "mobile_number": 83951
+    },
+    {
+      "id": 26,
+      "name": "VZM Station CUG",
+      "mobile_number": 8978081958
+    },
+    {
+      "id": 27,
+      "name": "GTLM Station CUG",
+      "mobile_number": 8978081969
+    },
+    {
+      "id": 28,
+      "name": "GRBL Station CUG",
+      "mobile_number": 8978081970
+    },
+    {
+      "id": 29,
+      "name": "GPI Station CUG",
+      "mobile_number": 8978081971
+    },
+    {
+      "id": 30,
+      "name": "KMX Station CUG",
+      "mobile_number": 8978081972
+    },
+    {
+      "id": 31,
+      "name": "DNV Station CUG",
+      "mobile_number": 8978081973
+    },
+    {
+      "id": 32,
+      "name": "VBL Station CUG",
+      "mobile_number": 8978081974
+    },
+    {
+      "id": 33,
+      "name": "SNM Station CUG",
+      "mobile_number": 8978081975
+    },
+    {
+      "id": 34,
+      "name": "PVP Station CUG",
+      "mobile_number": 8978081976
+    },
+    {
+      "id": 35,
+      "name": "GMDA Station CUG",
+      "mobile_number": 8978081977
+    },
+    {
+      "id": 36,
+      "name": "KNRT Station CUG",
+      "mobile_number": 8978081978
+    },
+    {
+      "id": 37,
+      "name": "JMPT Station CUG",
+      "mobile_number": 8455893923
+    },
+    {
+      "id": 38,
+      "name": "LDX Station CUG",
+      "mobile_number": 8455893924
+    },
+    {
+      "id": 39,
+      "name": "RGDA Station CUG",
+      "mobile_number": 8455893900
+    },
+    {
+      "id": 40,
+      "name": "SPRD Station CUG",
+      "mobile_number": 8455893901
+    },
+    {
+      "id": 41,
+      "name": "KRPU Station CUG",
+      "mobile_number": 8455893911
+    },
+    {
+      "id": 42,
+      "name": "DMRT Station CUG",
+      "mobile_number": 8455893910
+    },
+    {
+      "id": 43,
+      "name": "DMNJ Station CUG",
+      "mobile_number": 8455893909
+    },
+    {
+      "id": 44,
+      "name": "KKGM Station CUG",
+      "mobile_number": 8455893908
+    },
+    {
+      "id": 45,
+      "name": "LKMR Station CUG",
+      "mobile_number": 8455893907
+    },
+    {
+      "id": 46,
+      "name": "TKRI Station CUG",
+      "mobile_number": 8455893906
+    },
+    {
+      "id": 47,
+      "name": "SKPI Station CUG",
+      "mobile_number": 8455893905
+    },
+    {
+      "id": 48,
+      "name": "KTGA Station CUG",
+      "mobile_number": 8455893904
+    },
+    {
+      "id": 49,
+      "name": "SPRD Station CUG",
+      "mobile_number": 8455893901
+    },
+    {
+      "id": 50,
+      "name": "RGDA Station CUG",
+      "mobile_number": 8455893900
+    },
+    {
+      "id": 51,
+      "name": "KTV Station CUG",
+      "mobile_number": 8978081962
+    },
+    {
+      "id": 52,
+      "name": "MVW Station CUG",
+      "mobile_number": 8978081979
+    },
+    {
+      "id": 53,
+      "name": "LVK Station CUG",
+      "mobile_number": 8978081980
+    },
+    {
+      "id": 54,
+      "name": "SUP Station CUG",
+      "mobile_number": 8978081981
+    },
+    {
+      "id": 55,
+      "name": "BDVR Station CUG",
+      "mobile_number": 8978081982
+    },
+    {
+      "id": 56,
+      "name": "KVLS Station CUG",
+      "mobile_number": 8978081983
+    },
+    {
+      "id": 57,
+      "name": "ARK Station CUG",
+      "mobile_number": 8978081984
+    },
+    {
+      "id": 58,
+      "name": "KRPU Station CUG",
+      "mobile_number": 8455893911
+    },
+    {
+      "id": 59,
+      "name": "KRPU Station CUG",
+      "mobile_number": 8455893911
+    },
+    {
+      "id": 60,
+      "name": "MVF Station CUG",
+      "mobile_number": 8455893914
+    },
+    {
+      "id": 61,
+      "name": "CTS Station CUG",
+      "mobile_number": 8455893915
+    },
+    {
+      "id": 62,
+      "name": "JYP Station CUG",
+      "mobile_number": 8455893916
+    },
+    {
+      "id": 63,
+      "name": "DIR Station CUG",
+      "mobile_number": 8455893917
+    },
+    {
+      "id": 64,
+      "name": "KDPA Station CUG",
+      "mobile_number": 8455893918
+    },
+    {
+      "id": 65,
+      "name": "CJS Station CUG",
+      "mobile_number": 8455893919
+    },
+    {
+      "id": 66,
+      "name": "KPRR Station CUG",
+      "mobile_number": 8455893920
+    },
+    {
+      "id": 67,
+      "name": "AGB Station CUG",
+      "mobile_number": 8455893947
+    },
+    {
+      "id": 68,
+      "name": "AGZ Station CUG",
+      "mobile_number": 8455893948
+    },
+    {
+      "id": 69,
+      "name": "NKX Station CUG",
+      "mobile_number": 8455893949
+    },
+    {
+      "id": 70,
+      "name": "JDB Station CUG",
+      "mobile_number": 8455893950
+    },
+    {
+      "id": 71,
+      "name": "KMEZ Station CUG",
+      "mobile_number": 8455893951
+    },
+    {
+      "id": 72,
+      "name": "TPQ Station CUG",
+      "mobile_number": 8455893952
+    },
+    {
+      "id": 73,
+      "name": "BDXX Station CUG",
+      "mobile_number": 8455893953
+    },
+    {
+      "id": 74,
+      "name": "DMK Station CUG",
+      "mobile_number": 8455893954
+    },
+    {
+      "id": 75,
+      "name": "SZY Station CUG",
+      "mobile_number": 8455893955
+    },
+    {
+      "id": 76,
+      "name": "KMSD Station CUG",
+      "mobile_number": 8455893956
+    },
+    {
+      "id": 77,
+      "name": "KKLU Station CUG",
+      "mobile_number": 8455893957
+    },
+    {
+      "id": 78,
+      "name": "KWGN Station CUG",
+      "mobile_number": 8455893958
+    },
+    {
+      "id": 79,
+      "name": "DPF Station CUG",
+      "mobile_number": 8455893959
+    },
+    {
+      "id": 80,
+      "name": "GIZ Station CUG",
+      "mobile_number": 8455893960
+    },
+    {
+      "id": 81,
+      "name": "DWZ Station CUG",
+      "mobile_number": 8455893961
+    },
+    {
+      "id": 82,
+      "name": "KMLR Station CUG",
+      "mobile_number": 8455893962
+    },
+    {
+      "id": 83,
+      "name": "BHNS Station CUG",
+      "mobile_number": 8455893963
+    },
+    {
+      "id": 84,
+      "name": "BCHL Station CUG",
+      "mobile_number": 8455893964
+    },
+    {
+      "id": 85,
+      "name": "KRDL Station CUG",
+      "mobile_number": 8455893965
+    },
+    {
+      "id": 86,
+      "name": "VSKP Rly Land Line",
+      "mobile_number": 82764
+    },
+    {
+      "id": 87,
+      "name": "VSKP\n /RRI Rly Land Line",
+      "mobile_number": 82869
+    },
+    {
+      "id": 88,
+      "name": "WMY Rly Land Line",
+      "mobile_number": 85454
+    },
+    {
+      "id": 89,
+      "name": "DVD Rly Land Line",
+      "mobile_number": 83525
+    },
+    {
+      "id": 90,
+      "name": "JGPM Rly Land Line",
+      "mobile_number": 83526
+    },
+    {
+      "id": 91,
+      "name": "GPT Rly Land Line",
+      "mobile_number": 83502
+    },
+    {
+      "id": 92,
+      "name": "SCMN Rly Land Line",
+      "mobile_number": 83503
+    },
+    {
+      "id": 93,
+      "name": "PDT Rly Land Line",
+      "mobile_number": 83504
+    },
+    {
+      "id": 94,
+      "name": "KTV Rly Land Line",
+      "mobile_number": 83505
+    },
+    {
+      "id": 95,
+      "name": "KPL Rly Land Line",
+      "mobile_number": 83506
+    },
+    {
+      "id": 96,
+      "name": "ALM Rly Land Line",
+      "mobile_number": 83507
+    },
+    {
+      "id": 97,
+      "name": "KUK Rly Land Line",
+      "mobile_number": 83508
+    },
+    {
+      "id": 98,
+      "name": "VZM Rly Land Line",
+      "mobile_number": 83509
+    },
+    {
+      "id": 99,
+      "name": "NML Rly Land Line",
+      "mobile_number": 83510
+    },
+    {
+      "id": 100,
+      "name": "GVI Rly Land Line",
+      "mobile_number": 83511
+    },
+    {
+      "id": 101,
+      "name": "CPP Rly Land Line",
+      "mobile_number": 83512
+    },
+    {
+      "id": 102,
+      "name": "SGDM Rly Land Line",
+      "mobile_number": 83513
+    },
+    {
+      "id": 103,
+      "name": "PDU Rly Land Line",
+      "mobile_number": 83514
+    },
+    {
+      "id": 104,
+      "name": "DSI Rly Land Line",
+      "mobile_number": 83515
+    },
+    {
+      "id": 105,
+      "name": "CHE Rly Land Line",
+      "mobile_number": 83516
+    },
+    {
+      "id": 106,
+      "name": "ULM Rly Land Line",
+      "mobile_number": 83517
+    },
+    {
+      "id": 107,
+      "name": "TIU Rly Land Line",
+      "mobile_number": 83518
+    },
+    {
+      "id": 108,
+      "name": "KBM Rly Land Line",
+      "mobile_number": 83519
+    },
+    {
+      "id": 109,
+      "name": "NWP Rly Land Line",
+      "mobile_number": 83520
+    },
+    {
+      "id": 110,
+      "name": "PUN Rly Land Line",
+      "mobile_number": 83521
+    },
+    {
+      "id": 111,
+      "name": "VZM Rly Land Line",
+      "mobile_number": 83509
+    },
+    {
+      "id": 112,
+      "name": "GTLM Rly Land Line",
+      "mobile_number": 83314
+    },
+    {
+      "id": 113,
+      "name": "GRBL Rly Land Line",
+      "mobile_number": 83315
+    },
+    {
+      "id": 114,
+      "name": "GPI Rly Land Line",
+      "mobile_number": 83316
+    },
+    {
+      "id": 115,
+      "name": "KMX Rly Land Line",
+      "mobile_number": 83317
+    },
+    {
+      "id": 116,
+      "name": "DNV Rly Land Line",
+      "mobile_number": 83318
+    },
+    {
+      "id": 117,
+      "name": "VBL Rly Land Line",
+      "mobile_number": 83319
+    },
+    {
+      "id": 118,
+      "name": "SNM Rly Land Line",
+      "mobile_number": 85730
+    },
+    {
+      "id": 119,
+      "name": "PVP Rly Land Line",
+      "mobile_number": 85731
+    },
+    {
+      "id": 120,
+      "name": "GMDA Rly Land Line",
+      "mobile_number": 85732
+    },
+    {
+      "id": 121,
+      "name": "KNRT Rly Land Line",
+      "mobile_number": 85733
+    },
+    {
+      "id": 122,
+      "name": "JMPT Rly Land Line",
+      "mobile_number": 85734
+    },
+    {
+      "id": 123,
+      "name": "LDX Rly Land Line",
+      "mobile_number": 85735
+    },
+    {
+      "id": 124,
+      "name": "RGDA Rly Land Line",
+      "mobile_number": 85662
+    },
+    {
+      "id": 125,
+      "name": "SPRD Rly Land Line",
+      "mobile_number": 85736
+    },
+    {
+      "id": 126,
+      "name": "KRPU Rly Land Line",
+      "mobile_number": 86147
+    },
+    {
+      "id": 127,
+      "name": "SPRD Rly Land Line",
+      "mobile_number": 85736
+    },
+    {
+      "id": 128,
+      "name": "RGDA Rly Land Line",
+      "mobile_number": 85662
+    },
+    {
+      "id": 129,
+      "name": "KTV Rly Land Line",
+      "mobile_number": 83505
+    },
+    {
+      "id": 130,
+      "name": "MVW Rly Land Line",
+      "mobile_number": 85330
+    },
+    {
+      "id": 131,
+      "name": "LVK Rly Land Line",
+      "mobile_number": 85331
+    },
+    {
+      "id": 132,
+      "name": "SUP Rly Land Line",
+      "mobile_number": 86060
+    },
+    {
+      "id": 133,
+      "name": "BDVR Rly Land Line",
+      "mobile_number": 86032
+    },
+    {
+      "id": 134,
+      "name": "SLPM Rly Land Line",
+      "mobile_number": 86033
+    },
+    {
+      "id": 135,
+      "name": "TXD Rly Land Line",
+      "mobile_number": 86034
+    },
+    {
+      "id": 136,
+      "name": "CMDP Rly Land Line",
+      "mobile_number": 86035
+    },
+    {
+      "id": 137,
+      "name": "BGHU Rly Land Line",
+      "mobile_number": 86036
+    },
+    {
+      "id": 138,
+      "name": "KVLS Rly Land Line",
+      "mobile_number": 86037
+    },
+    {
+      "id": 139,
+      "name": "SMLG Rly Land Line",
+      "mobile_number": 86038
+    },
+    {
+      "id": 140,
+      "name": "ARK Rly Land Line",
+      "mobile_number": 86139
+    },
+    {
+      "id": 141,
+      "name": "GPJ Rly Land Line",
+      "mobile_number": 86140
+    },
+    {
+      "id": 142,
+      "name": "DPC Rly Land Line",
+      "mobile_number": 86141
+    },
+    {
+      "id": 143,
+      "name": "PFU Rly Land Line",
+      "mobile_number": 86142
+    },
+    {
+      "id": 144,
+      "name": "BHJA Rly Land Line",
+      "mobile_number": 86143
+    },
+    {
+      "id": 145,
+      "name": "MKRD Rly Land Line",
+      "mobile_number": 86144
+    },
+    {
+      "id": 146,
+      "name": "PBV Rly Land Line",
+      "mobile_number": 86145
+    },
+    {
+      "id": 147,
+      "name": "SXV Rly Land Line",
+      "mobile_number": 86146
+    },
+    {
+      "id": 148,
+      "name": "KRPU Rly Land Line",
+      "mobile_number": 86147
+    },
+    {
+      "id": 149,
+      "name": "KRPU Rly Land Line",
+      "mobile_number": 86362
+    },
+    {
+      "id": 150,
+      "name": "JDB Rly Land Line",
+      "mobile_number": 86660
+    }
+  ]
+}

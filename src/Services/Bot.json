@@ -1,0 +1,141 @@
+{
+  "bot": [
+    {
+      "id": 1,
+      "qus": "hi",
+      "answer": "hi, how can i help you"
+    },
+    {
+      "id": 2,
+      "qus": "What can you do",
+      "answer": "Give me Mobile number of employee i will provide details & I can provide Answers for Types of leaves , Dress Allowance RBE ,Children Education Allowance Scheme , Composite Transfer Grant (CTG),NATIONAL HOLIDAY ALLOWANCE ,COMMUTATION OF PENSION etc ...."
+    },
+    {
+      "id": 3,
+      "qus": "Children Education Allowance Scheme",
+      "answer": "Fixed Amount of Rs. 2250/- allowed in line with CEA Consolidated Instructions issued by DOPT Hostel Subsidy allowed on the basis of cost incurred with limit of Rs. 6750 per month 7th Pay Commission recommended that Railway Employees be granted Children Education Allowance and Hostel Subsidy of Rs. 2250 per month and Rs. 6750/- respectively which was accepted by Railway Board as such.Now in line with DOPT's instructions that fixed amount of Rs. 2250/ per month would be paid as Children Education Allowance to Central Government Employees, Railway Board has issued orders to the effect that DOPT Office Memorandum dated 17.07.2018 is applicable to Railway Employees also. Hence, irrespective of amount incurred by the Railway Employees for the education of their first two Children, Children Education Allowance will be paid at the rate of Rs. 2250 per month per child with effect from 1st July 2017"
+    },
+    {
+      "id": 4,
+      "qus": "Dress Allowance RBE",
+      "answer": "Officers of RPF/RPSF - 20,000/-PA , Personnel below Officer Rank of RPF Staion Master of Indian Railways - 10,000/-P.A , Other Categories of Staff who were supplied uniforms and required to wear them regularly like Trackman, Running Staff of Indian Railways Staff Car Drivers, MTS Canteen Staff of Non Statutory Departmental Canteens etc - 5,000/-P.A, Nurses - 1800 per month"
+    },
+    {
+      "id": 5,
+      "qus": "Composite Transfer Grant (CTG)",
+      "answer": "The Composite Transfer Grant shall be paid at the rate of 80% of the last month's basic pay in case of those employees, who on retirement, settled down at places other than the last station(s) of their duty located at a distance of or more than 20 km. however, in case of settlement to and from the Island territories of Andaman, Nicobar & Lakshadweep. CTG shall be paid at the rate of 100% of last month's basic pay. Further, NPA and MSP shall not be included as part of basic pay while determining entitlement for CTG The transfer incidentals and road mileage for journeys between the residence and the railway station/ bus stand, et at the old and new station, are already subsumed in the composite transfer grant and will not be separately admissible"
+    },
+    {
+      "id": 6,
+      "qus": "NATIONAL HOLIDAY ALLOWANCE (RBE No. 108/2017)",
+      "answer": "with effect from the 1st July, 2017. Level in the pay matrix(VII CPC) 1& 2, 3 to 4, 6 to 8(limited to non-gazetted staff) - Rate of allowance Rs.384,477,630.The rates of this allowance will further increase by 25 percent each time DA rises by 50 percent."
+    },
+    {
+      "id": 7,
+      "qus": "Fixed Medical Allowance (FMA)",
+      "answer": "for Pensioners has been increased from 500 per month to 1000 per month: This will benefit more than 5 lakh Central Government pensioners."
+    },
+    {
+      "id": 8,
+      "qus": "ENCASHMENT OF LAP WHILE IN SERVICE",
+      "answer": "Privilege Passes as well as Privilege Ticket Orders during service. RBE No. 161/08 and 194/08. A Railway servant shall be permitted to encash leave on average pay upto 10 days at the time of availing of Railway Passes while in service, subject to the condition that: i) LAP of at least an equivalent duration is also available simultaneously. ii) a balance of at least 30 days of leave on average pay should be available to his credit after taking into account the period of encashment as well as leave availed of iii) the total leave so encashed during the entire career shall not exceed 60 days in the aggregate subject to the condition that successive encashment cannot be made before a minimum period of two years has elapsed. The Railway servants who are directly engaged in running of trains viz all the running staff including Drivers Assistant Drivers, Motormen, Shunters, Guards, etc., and Station Masters/ Assistant Station Masters should be exempted from the requirement of availing of 10 days of LAP Zonal Railways are, therefore, requested to sanction encashment of LAP upto 10 days to the categories of the Railway servants mentioned above on receipt of requests from them in this regard without insisting on them to avail Railway passes and apply for LAP of equal duration."
+    },
+    {
+      "id": 9,
+      "qus": "Casual Leave ",
+      "answer": "8 days for office staff & 10 days for field staff in a year. CL can be combined with SCL & with no other leave."
+    },
+    {
+      "id": 10,
+      "qus": "LEAVE ON AVERAGE PAY (LAP) (156/99) LAP ",
+      "answer": "will be credited @ 15 days two times in a year i.e., 1st Jan and 1st July of every year except in case of school staff. Total accumulation of the same is 300 days w.e.f. 17.97 as per decision of Vth P.C. Recom- mendations. 180 days LAP can be granted at a time."
+    },
+    {
+      "id": 11,
+      "qus": "LEAVE ON HALF AVERAGE PAY (LHAP) LHAP",
+      "answer": " is credited at the Rate of 10 days in Jan and July in every year. There is no limit for accumulation. This leave can be commuted for payment of full pay during sick periods."
+    },
+    {
+      "id": 12,
+      "qus": "LEAVE NOT DUE",
+      "answer": "When there is no leave at the credit of the Rly. Employee leave not due can be sanctioned to the extent of 360 days in entire on medical grounds only. The same is debitable against LHAP in the future earnings"
+    },
+    {
+      "id": 13,
+      "qus": "HOSPITAL LEAVE (10D)",
+      "answer": "This is granted for the treatment for injuries sustained on duty as recommended by Rly. Medical authorities for the first 120 days full pay and rest @ half average pay subject total 24 months. Beyond 120 days 100 full.. on spl. recommendation. This is not debitable to the Rly. Servant's own leave."
+    },
+    {
+      "id": 14,
+      "qus": "PATERNITY LEAVE (RBE NO.154/97)",
+      "answer": "A male employee (including an apprentice) with less than two surviving children may be granted Paternity Leave for a period of 15 days during the con- finement of his wife before or upto 06 months from date of delivery of the child. RBE No.249/99."
+    },
+    {
+      "id": 15,
+      "qus": "EXTRAORDINARY LEAVE",
+      "answer": "This leave can be granted when no other leave is admissible. In case the party applies for the same can be availed even otherwise when no other leave is admissible. Permanent employees are eligible for a maximum of 5 yrs. leave on this account with approval of GM."
+    },
+    {
+      "id": 16,
+      "qus": "COMMUTATION OF PENSION ",
+      "answer": "Revised Commutation table has been given. The revised table of commutation value for pension will be used for all commutation of pension which becomes absolute after 02.09.2008, the pre-revised table of com- mutation value for pension will be used for payment of commutation of pension based on pre-revised pay/pension."
+    },
+    {
+      "id": 17,
+      "qus": "Types of leaves",
+      "answer": "Casual Leave,HOSPITAL LEAVE (10D),PATERNITY LEAVE,EXTRAORDINARY LEAVE,LEAVE ON AVERAGE PAY (LAP) (156/99) LAP,LEAVE ON HALF AVERAGE PAY (LHAP) LHAP,LEAVE NOT DUE"
+    },
+    {
+      "id": 18,
+      "qus": "how many divisions are there in indian railways",
+      "answer": "There are a total of 19 zones (including Metro Railway, Kolkata) and 70 Divisions on Indian Railway System.[1] Each of the divisions is headed by a Divisional Railway Manager (DRM), who reports to the General Manager (GM) of the zone"
+    },
+    {
+      "id": 19,
+      "qus": "Which area comes under East Central Railway?",
+      "answer": "The zone is administratively divided into 5 Divisions - Dhanbad, Danapur, Pt. Deen Dayal Upadhyaya (old name Mughal Sarai) Divisions of erstwhile Eastern Railway and Sonpur & Samastipur Divisions of erstwhile North Eastern Railway."
+    },
+    {
+      "id": 20,
+      "qus": "railway minister of india",
+      "answer": "The current Minister of Railways is Ashwini Vaishnaw of the Bharatiya Janata Party who has been in office since 7 July 2021 "
+    },
+    {
+      "id": 21,
+      "qus": "who created you",
+      "answer": "thanks so asking that sai nagendr yakkaladevara created me"
+    },
+    {
+      "id": 22,
+      "qus": "what is your name",
+      "answer": "Hey Until now, I haven't been named , but I will inform you once I have completed the process of name sarmani (namakaranam) or else if you find any interesting name which suits for me you can inform Y S Prabhu"
+    },
+    { "id": 23, "qus": "what is your age", "answer": "Haha ! secret " },
+    { "id": 24, "qus": "hello", "answer": "hello" },
+    {
+      "id": 25,
+      "qus": "thank",
+      "answer": "You're welcome! If you have any more questions or need further assistance, feel free to ask. Happy day! 😊👨‍💻👩‍💻"
+    },
+    {
+      "id": 26,
+      "qus": "what is union name",
+      "answer": "EAST COAST RAILWAY SHRAMIK UNION"
+    },
+    {
+      "id": 27,
+      "qus": "General secretary",
+      "answer": "General secretary of EAST COAST RAILWAY SHRAMIK UNION is PK PATSAHANI"
+    },
+    {
+      "id": 28,
+      "qus": "What can you help me how can you help me",
+      "answer": "Give me Mobile number of employee i will provide details & also I can provide Answers for Types of leaves , Dress Allowance RBE ,Children Education Allowance Scheme , Composite Transfer Grant (CTG),NATIONAL HOLIDAY ALLOWANCE ,COMMUTATION OF PENSION etc ...."
+    },
+    {
+      "id": 29,
+      "qus": "Zonal president",
+      "answer": "Zonal president of EAST COAST RAILWAY SHRAMIK UNION is RVSS RAO."
+    }
+  ]
+}
